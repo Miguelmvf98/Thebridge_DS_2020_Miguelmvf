@@ -1,1 +1,2 @@
 # Thebridge_DS_2020_Miguelmvf
+Getting there
